@@ -11,7 +11,7 @@
 
 ---
 
-## 📫 **[View My Portfolio Website](https://surajnav2210.github.io/Portfolio/)**  
+## 🌐 **[🌟 View My Portfolio Website 🌟](https://surajnav2210.github.io/Portfolio/)**  
 
 ---
 
