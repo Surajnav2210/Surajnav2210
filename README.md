@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Suraj Naveen
+🎓 Junior at the University of Wisconsin-Madison pursuing a Bachelor of Science in Computer Science and Data Science  
+👀 I'm passionate about solving complex problems through algorithms, machine learning, and creative software design  
+🌱 Currently exploring advanced neural architectures and their applications in real-world problem-solving  
 
-<!--
-**Surajnav2210/Surajnav2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills and Tools
+- **Languages:** Java, Python, R, Swift, HTML, CSS, JavaScript, C++, PHP, C#, AJAX  
+- **Frameworks & Tools:** Matplotlib, Pandas, Scikit-learn, PyTorch, TensorFlow, React, Git, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact Me
+- Email: snaveen@wisc.edu  
+- [View My Portfolio Website](https://surajnav2210.github.io/Portfolio/)  
+- [GitHub](https://github.com/Surajnav2210)  
+- [LinkedIn](http://www.linkedin.com/in/suraj-naveen-70670a212)  
