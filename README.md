@@ -11,8 +11,11 @@
 
 ---
 
-## 📫 Contact Me
-- Email: snaveen@wisc.edu  
-- [View My Portfolio Website](https://surajnav2210.github.io/Portfolio/)  
-- [GitHub](https://github.com/Surajnav2210)  
-- [LinkedIn](http://www.linkedin.com/in/suraj-naveen-70670a212)  
+## 📫 **[View My Portfolio Website](https://surajnav2210.github.io/Portfolio/)**  
+
+---
+
+## 🤝 Let’s Connect:
+- Email: [snaveen@wisc.edu](mailto:snaveen@wisc.edu)  
+- GitHub: [github.com/Surajnav2210](https://github.com/Surajnav2210)  
+- LinkedIn: [linkedin.com/in/suraj-naveen-70670a212](http://www.linkedin.com/in/suraj-naveen-70670a212)  
