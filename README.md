@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Suraj Naveen
-🎓 Junior at the University of Wisconsin-Madison pursuing a Bachelor of Science in Computer Science and Data Science  
+🎓 Senior at the University of Wisconsin-Madison pursuing a Bachelor of Science in Computer Science and Data Science  
 👀 I'm passionate about solving complex problems through algorithms, machine learning, and creative software design  
 🌱 Currently exploring advanced neural architectures and their applications in real-world problem-solving  
 
