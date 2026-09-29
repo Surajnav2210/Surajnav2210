@@ -26,22 +26,6 @@ Record a meeting wrap-up or site walk and get back a finished note (summary, dec
 - RAG search over past notes on pgvector, returning answers with cited sources
 - Multi-tenant security with Supabase Auth JWT, Postgres Row Level Security, and least-privilege IAM
 
-### [Gatepass](https://github.com/Surajnav2210/Juspay-OA-) · Ticketing checkout on Juspay Hyperswitch
-
-`Next.js` `TypeScript` `Payments` `Webhooks`
-
-- Seat holds with a TTL and US all-in pricing (face value + service fee shown before paying)
-- Authorize-then-capture: the card is charged only if the seat hold is still alive, otherwise the payment is voided
-- Soft declines keep the hold and issue a fresh payment intent (up to 3 retries) instead of releasing the seat
-
-### [Bedtime Story Agents](https://github.com/Surajnav2210/OA-Hippocratic-) · Multi-agent LLM pipeline with an independent judge
-
-`Python` `OpenAI API` `LLM evaluation`
-
-- Four agents: router → planner → writer → judge
-- The judge sees only the finished story and returns four rubric scores plus targeted edits
-- Safety revisions are enforced in code, and the best-scoring draft is returned so a bad revision can never win
-
 ### [RiskChain](https://github.com/Surajnav2210/RiskChain) · Insurance fraud-ring detection (MadHacks 2025)
 
 `FastAPI` `NetworkX` `Next.js` `SQLite`
